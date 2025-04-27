@@ -1,0 +1,4 @@
+numpy
+pytest
+
+#python -m pytest tests.py
